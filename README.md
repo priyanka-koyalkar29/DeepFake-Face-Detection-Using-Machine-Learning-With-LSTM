@@ -1,5 +1,3 @@
-# DeepFake-Face-Detection-Using-Machine-Learning-With-LSTM
-A machine learning project for detecting deepfake videos using Xception + LSTM.
 # DeepFake Face Detection using Machine Learning (Xception + LSTM)
 
 A deep learning web app to detect deepfake faces using a hybrid model combining Xception CNN with LSTM. Built using Python, Flask, and OpenCV.
@@ -86,5 +84,6 @@ MTCNN GitHub Repo
 Priyanka Koyalkar
 Gold Medalist in Statistics | AI/ML Developer | MCA Graduate
  https://www.linkedin.com/in/k-p-priyanka 
+
 
 
